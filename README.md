@@ -18,13 +18,12 @@ Hier sind alle Infos zu diesem Motherboard gesammelt.
 - sleep & resume funktionieren nicht
 
 
-An example for how to use "Clear RTC" of ASUS
-Ein Beispiel für das verwenden der "Clear RTC" von ASUS
+An example for how to use "Clear RTC" of Asus.  
+Ein Beispiel für das verwenden der "Clear RTC" von Asus.  
 https://rog.asus.com/za/support/faq/1040820/
  
 
-Attation I have got the "huananzhi-x99-f8d-plus" mainboard... 
-The post code for this is the same.
-
+Attation: I have got the "huananzhi-x99-f8d-plus" mainboard... 
+The post code for this is the same.  
 Achtung: Ich habe das "huananzhi-x99-f8d-plus" Mainboard... 
 Der Post Code dafür ist der gleiche.
