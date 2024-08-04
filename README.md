@@ -18,5 +18,6 @@ hier sammle ich alle Infos zu diesem Motherboard
 - sleep & resume funktionieren nicht
 
 
-An example for how to Clearing RTC of ASUS
+An example for how to use "Clear RTC" of ASUS
+Ein Beispiel für das verwenden der "Clear RTC" von ASUS
 https://rog.asus.com/za/support/faq/1040820/
