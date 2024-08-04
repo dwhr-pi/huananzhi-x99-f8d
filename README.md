@@ -16,3 +16,7 @@ hier sammle ich alle Infos zu diesem Motherboard
 - Wenn das Board zum ersten Mal gestartet wird, stoppt es auf dem B7-Code. Auch wenn die Batterie gerade eingelegt ist, müssen Sie "Clear RTC" ein- und ausschalten. 
 - die Boot-Zeit des Boards ist riesig!
 - sleep & resume funktionieren nicht
+
+
+An example for how to Clearing RTC of ASUS
+https://rog.asus.com/za/support/faq/1040820/
