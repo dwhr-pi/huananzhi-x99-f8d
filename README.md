@@ -1,5 +1,5 @@
 # huananzhi-x99-f8d
-here i collect all info about this motherboard
+Here are collected all infos about this motherboard. 
 
 ## my comments
 
@@ -10,7 +10,7 @@ here i collect all info about this motherboard
 
 
 # huananzhi-x99-f8d
-hier sammle ich alle Infos zu diesem Motherboard
+Hier sind alle Infos zu diesem Motherboard gesammelt. 
 
 ## meine Kommentare
 - Wenn das Board zum ersten Mal gestartet wird, stoppt es auf dem B7-Code. Auch wenn die Batterie gerade eingelegt ist, müssen Sie "Clear RTC" ein- und ausschalten. 
@@ -21,7 +21,10 @@ hier sammle ich alle Infos zu diesem Motherboard
 An example for how to use "Clear RTC" of ASUS
 Ein Beispiel für das verwenden der "Clear RTC" von ASUS
 https://rog.asus.com/za/support/faq/1040820/
+ 
 
+Attation I have got the "huananzhi-x99-f8d-plus" mainboard... 
+The post code for this is the same.
 
-Attation I have got huananzhi-x99-f8d plus mainboard... 
-The post code for this the same. 
+Achtung: Ich habe das "huananzhi-x99-f8d-plus" Mainboard... 
+Der Post Code dafür ist der gleiche.
