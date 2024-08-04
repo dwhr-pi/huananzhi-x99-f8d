@@ -21,3 +21,6 @@ hier sammle ich alle Infos zu diesem Motherboard
 An example for how to use "Clear RTC" of ASUS
 Ein Beispiel für das verwenden der "Clear RTC" von ASUS
 https://rog.asus.com/za/support/faq/1040820/
+
+
+Attation I have got huananzhi-x99-f8d plus... 
