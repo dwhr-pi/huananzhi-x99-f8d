@@ -23,4 +23,5 @@ Ein Beispiel für das verwenden der "Clear RTC" von ASUS
 https://rog.asus.com/za/support/faq/1040820/
 
 
-Attation I have got huananzhi-x99-f8d plus... 
+Attation I have got huananzhi-x99-f8d plus mainboard... 
+The post code for this the same. 
