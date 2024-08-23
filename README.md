@@ -1,4 +1,5 @@
-# huananzhi-x99-f8d
+# Huananzhi x99 f8d & Huananzhi x99 f8d plus  
+
 Here are collected all infos about this motherboard. 
 
 ## my comments
@@ -9,7 +10,7 @@ Here are collected all infos about this motherboard.
 
 
 
-# huananzhi-x99-f8d
+# Huananzhi x99 f8d & Huananzhi x99 f8d plus  
 Hier sind alle Infos zu diesem Motherboard gesammelt. 
 
 ## meine Kommentare
@@ -24,12 +25,14 @@ https://rog.asus.com/za/support/faq/1040820/
  
 
 Attation: I have got the "huananzhi-x99-f8d-plus" mainboard... 
-The post code for this is the same.  
+The post code for this is the same like for the huananzhi-x99-f8d.  
+
 Achtung: Ich habe das "huananzhi-x99-f8d-plus" Mainboard... 
-Der Post Code dafür ist der gleiche.
+Der Post Code dafür ist der gleiche wie für das huananzhi-x99-f8d.
 
 
 
 Take a look to this side for Gigabyte Mainboard it's sounds like our Post codes. 
+
 Werfen Sie einen Blick auf diese Seite für Gigabyte Mainboard, es klingt wie unsere Post codes.
 https://defkey.com/de/2019/04/25/gigabyte-aorus-z390-debug-led-codes?utm_content=cmp-true
