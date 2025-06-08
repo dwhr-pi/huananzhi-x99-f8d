@@ -3,6 +3,9 @@
 Here are collected all infos about this motherboard. 
 
 https://youtu.be/IcnOQK1S4z8?si=Hv1549TLmPACMtpw
+Take care! In this YouTube Video he was plugged the grafic card at first time into the wrong PCI Slot. I was doing the same mistake. The fans of the grafic card does not starting. Nothing is working, only black screen without a signal. 
+
+Put the grafic card in the first orange PCI slot. Then it will turn on. 
 
 ## my comments
 
