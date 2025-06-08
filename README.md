@@ -2,6 +2,8 @@
 
 Here are collected all infos about this motherboard. 
 
+https://youtu.be/IcnOQK1S4z8?si=Hv1549TLmPACMtpw
+
 ## my comments
 
 - When board first start it stop on B7 code. Even if battery just installed, you need switch "Clear RTC" to on and off
